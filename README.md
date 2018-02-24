@@ -1,0 +1,2 @@
+# RubyProject
+Oyun algoritması geliştirilmiştir.
